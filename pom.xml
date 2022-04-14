@@ -65,6 +65,7 @@
 
     <modules>
         <module>data-structures</module>
+        <module>debugging-and-testing</module>
         <module>fundamentals</module>
         <module>getting-started</module>
         <module>object-oriented-programming</module>
