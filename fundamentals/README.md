@@ -2,8 +2,6 @@
 
 # Fundamentals
 
----
-
 ## Variables & Primitive Types
 
 Take a look [here](https://www.udemy.com/course/java-tutorial/learn/lecture/131409) and [here](https://www.udemy.com/course/java-for-absolute-beginners-c/learn/lecture/9604718) for learning about variables and primitive data types.

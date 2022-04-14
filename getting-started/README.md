@@ -2,13 +2,9 @@
 
 # Getting Started
 
----
-
 ## Introduction to the Java World
 
 TODO
-
----
 
 ## JDK setup
 
@@ -23,8 +19,6 @@ Go [here](https://www.oracle.com/java/technologies/downloads) to download the JD
 Go [here](https://sdkman.io/install) and follow the instructions to install SDKMAN!.
 
 Then, run `sdk install java` to install the latest version of Java.
-
----
 
 ## IDE setup
 

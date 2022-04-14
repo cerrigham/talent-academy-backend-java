@@ -6,8 +6,6 @@ After the standalone study the **Mentor** will answer to your questions, will cl
 
 Let's start!
 
----
-
 ## Modules
 
 - [Getting Started](getting-started/README.md)
@@ -16,11 +14,9 @@ Let's start!
 - [Debugging and testing](debugging-and-testing/README.md)
 - [Data structures](data-structures/README.md)
 
---- 
-
 ## References
 
 - [Java Tutorial for Complete Beginners | Udemy](https://www.udemy.com/course/java-tutorial)
-- [Java for Absolute Beginners](https://www.udemy.com/course/java-for-absolute-beginners-c)
+- [Java for Absolute Beginners | Udemy](https://www.udemy.com/course/java-for-absolute-beginners-c)
 - [Learn Java | Codecademy](https://www.codecademy.com/learn/learn-java)
-- [Java Tutorial for Absolute Beginners: Learn Java in 3 hours](https://www.youtube.com/watch?v=sjGjoDiD2F8)
+- [Java Tutorial for Absolute Beginners: Learn Java in 3 hours | YouTube](https://www.youtube.com/watch?v=sjGjoDiD2F8)

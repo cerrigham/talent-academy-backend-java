@@ -2,8 +2,6 @@
 
 # Object-Oriented Programming
 
----
-
 ## Classes and Objects
 
 It's time to earn the basics of Object-Oriented Programming (OOP) in Java.
@@ -14,14 +12,10 @@ Classes contain data, [methods](https://www.udemy.com/course/java-tutorial/learn
 
 It's a complex topic, consider also [this](https://www.codecademy.com/learn/learn-java/modules/learn-java-object-oriented-java-u) as a reference.
 
----
-
 ## Access, Encapsulation, and Static Methods
 
 Each element (classes, methods, constructors, etc.) explained before can be accessed from every part of the software, or it can have some restrictions.
 Learn [here](https://www.codecademy.com/learn/learn-java/modules/java-access-encapsulation-and-static-methods) how to use effectively access modifiers.
-
----
 
 ## Inheritance and Polymorphism
 
@@ -30,8 +24,6 @@ Learn [here](https://www.udemy.com/course/java-tutorial/learn/lecture/147402) ho
 After you understand how inheritance works, you can learn [polymorphism](https://www.udemy.com/course/java-tutorial/learn/lecture/149501), one of the three concepts of OOP..
 
 Again, it's a complex topic. Consider [this](https://www.codecademy.com/learn/learn-java/modules/learn-java-inheritance-and-polymorphism-java-u) as a reference.
-
----
 
 ## Generics   
 

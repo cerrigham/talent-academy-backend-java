@@ -2,8 +2,6 @@
 
 # Data Structures
 
----
-
 ## Arrays
 
 Yoy learned about Classes and Objects.

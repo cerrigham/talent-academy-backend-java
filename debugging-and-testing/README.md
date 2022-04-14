@@ -2,8 +2,6 @@
 
 # Debugging and Testing
 
----
-
 ## Testing with JUnit
 
 JUnit is the most widely used testing framework for Java.
