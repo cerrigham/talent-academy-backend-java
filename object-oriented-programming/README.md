@@ -23,7 +23,7 @@ Classes can be related with other classes with a inheritance relationship.
 Learn [here](https://www.udemy.com/course/java-tutorial/learn/lecture/147402) how inheritance works.
 After you understand how inheritance works, you can learn [polymorphism](https://www.udemy.com/course/java-tutorial/learn/lecture/149501), one of the three concepts of OOP..
 
-Again, it's a complex topic. Consider [this](https://www.codecademy.com/learn/learn-java/modules/learn-java-inheritance-and-polymorphism-java-u) as a reference.
+Again, it's a complex topic. Consider [this](https://www.codecademy.com/learn/learn-java/modules/learn-java-inheritance-and-polymorphism) as a reference.
 
 ## Generics   
 
