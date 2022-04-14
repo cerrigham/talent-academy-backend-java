@@ -13,6 +13,7 @@ Let's start!
 - [Getting Started](getting-started/README.md)
 - [Fundamentals](fundamentals/README.md)
 - [Object-Oriented Programming](object-oriented-programming/README.md)
+- [Data structures](data-structures/README.md)
 
 --- 
 

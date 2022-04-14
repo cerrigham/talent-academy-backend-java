@@ -64,6 +64,7 @@
     </build>
 
     <modules>
+        <module>data-structures</module>
         <module>fundamentals</module>
         <module>getting-started</module>
         <module>object-oriented-programming</module>
