@@ -66,6 +66,7 @@
     <modules>
         <module>fundamentals</module>
         <module>getting-started</module>
+        <module>object-oriented-programming</module>
     </modules>
 
 </project>
