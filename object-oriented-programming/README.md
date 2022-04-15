@@ -29,3 +29,7 @@ Again, it's a complex topic. Consider [this](https://www.codecademy.com/learn/le
 
 The last topic of this part, and a prerequisite for understanding the Collection Framework, is the Generics concept.
 Learn [here](https://www.udemy.com/course/java-tutorial/learn/lecture/152306) how to use this powerful feature.
+
+## Examples
+
+[Here](src/main/java/it/bitrock/academy/Classes.java) you can find examples for classes.
