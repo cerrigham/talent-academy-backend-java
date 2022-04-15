@@ -32,4 +32,5 @@ Learn [here](https://www.udemy.com/course/java-tutorial/learn/lecture/152306) ho
 
 ## Examples
 
-[Here](src/main/java/it/bitrock/academy/Classes.java) you can find examples for classes.
+[Here](src/main/java/it/bitrock/academy/Classes.java) you can find examples for classes, and [here](src/main/java/it/bitrock/academy/Generics.java) for generics.
+
