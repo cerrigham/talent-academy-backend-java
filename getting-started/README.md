@@ -27,3 +27,8 @@ Then, run `sdk install java` to install the latest version of Java.
 Go [here](https://www.jetbrains.com/idea) to download and then install the latest version of the Community Edition of IntelliJ IDEA.
 
 As an alternative, download and install the [Toolbox App](https://www.jetbrains.com/toolbox-app) and then install IntelliJ IDEA using the Toolbox App.
+
+## Hello, Java!
+
+Go [here](src/main/java/it/bitrock/academy/HelloJava.java), and you will find the simplest Java application.
+Try to run it using your IDE.
