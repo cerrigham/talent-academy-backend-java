@@ -23,3 +23,12 @@ You can think to [Sets](https://www.udemy.com/course/java-tutorial/learn/lecture
 ### Maps
 
 [Maps](https://www.udemy.com/course/java-tutorial/learn/lecture/161682) are used for store objects associating it to a unique key.
+
+# Examples
+
+Since you learned the basics of testing, let's use them for practice with data structures.
+Let's see how we can exercise
+- [arrays](src/test/java/test/ArraysTest.java),
+- [lists](src/test/java/test/ListsTest.java),
+- [sets](src/test/java/test/SetsTest.java)
+- and [maps](src/test/java/test/MapsTest.java).
