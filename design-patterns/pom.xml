@@ -10,7 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>data-structures</artifactId>
+    <artifactId>design-patterns</artifactId>
 
     <dependencies>
         <dependency>

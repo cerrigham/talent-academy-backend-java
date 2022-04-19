@@ -13,6 +13,7 @@ Let's start!
 - [Object-Oriented Programming](object-oriented-programming/README.md)
 - [Debugging and testing](debugging-and-testing/README.md)
 - [Data structures](data-structures/README.md)
+- [Java Common OOP Patterns](design-patterns/README.md)
 
 ## References
 
