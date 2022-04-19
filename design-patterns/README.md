@@ -20,5 +20,5 @@ Let's put all in practice
 - [Builder](src/test/java/test/BuilderTest.java),
 - [Adapter](src/test/java/test/AdapterTest.java),
 - [Decorator](src/test/java/test/DecoratorTest.java),
-- [Visitor](src/test/java/test/VisitorTest.java).
-- [Strategy](src/test/java/test/StrategyTest.java)
+- [Visitor](src/test/java/test/VisitorTest.java),
+- [Strategy](src/test/java/test/StrategyTest.java).
