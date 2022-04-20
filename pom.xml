@@ -82,6 +82,7 @@
         <module>data-structures</module>
         <module>debugging-and-testing</module>
         <module>design-patterns</module>
+        <module>functional-programming-in-java</module>
         <module>fundamentals</module>
         <module>getting-started</module>
         <module>object-oriented-programming</module>

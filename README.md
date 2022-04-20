@@ -14,6 +14,7 @@ Let's start!
 - [Debugging and testing](debugging-and-testing/README.md)
 - [Data structures](data-structures/README.md)
 - [Java Common OOP Patterns](design-patterns/README.md)
+- [Functional Programming in Java](functional-programming-in-java/README.md)
 
 ## References
 
