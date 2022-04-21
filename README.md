@@ -15,6 +15,7 @@ Let's start!
 - [Data structures](data-structures/README.md)
 - [Java Common OOP Patterns](design-patterns/README.md)
 - [Functional Programming in Java](functional-programming-in-java/README.md)
+- [Multithreading in Java](multithreading/README.md)
 
 ## References
 
@@ -22,3 +23,4 @@ Let's start!
 - [Java for Absolute Beginners | Udemy](https://www.udemy.com/course/java-for-absolute-beginners-c)
 - [Learn Java | Codecademy](https://www.codecademy.com/learn/learn-java)
 - [Java Tutorial for Absolute Beginners: Learn Java in 3 hours | YouTube](https://www.youtube.com/watch?v=sjGjoDiD2F8)
+- [Java Multithreading | Udemy](https://www.udemy.com/course/java-multithreading)

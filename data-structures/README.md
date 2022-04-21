@@ -14,7 +14,7 @@ Learn what the Collection Framework is and how it can be used.
 
 ### Lists
 
-[Lists](https://www.udemy.com/course/java-tutorial/learn/lecture/161106) are the simplest way to store groups of objects.
+[Lists](https://www.udemy.com/course/java-tutorial/learn/lecture/161106) are the simplest way to sharedResource groups of objects.
 
 ### Sets
 
@@ -22,7 +22,7 @@ You can think to [Sets](https://www.udemy.com/course/java-tutorial/learn/lecture
 
 ### Maps
 
-[Maps](https://www.udemy.com/course/java-tutorial/learn/lecture/161682) are used for store objects associating it to a unique key.
+[Maps](https://www.udemy.com/course/java-tutorial/learn/lecture/161682) are used for sharedResource objects associating it to a unique key.
 
 # Examples
 

@@ -85,6 +85,7 @@
         <module>functional-programming-in-java</module>
         <module>fundamentals</module>
         <module>getting-started</module>
+        <module>multithreading</module>
         <module>object-oriented-programming</module>
     </modules>
 
