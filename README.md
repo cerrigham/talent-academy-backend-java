@@ -16,6 +16,7 @@ Let's start!
 - [Java Common OOP Patterns](design-patterns/README.md)
 - [Functional Programming in Java](functional-programming-in-java/README.md)
 - [Multithreading in Java](multithreading/README.md)
+- [Maven](maven/README.md)
 
 ## References
 
