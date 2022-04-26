@@ -27,5 +27,5 @@ Let's start!
 - [Learn Java | Codecademy](https://www.codecademy.com/learn/learn-java)
 - [Java Tutorial for Absolute Beginners: Learn Java in 3 hours | YouTube](https://www.youtube.com/watch?v=sjGjoDiD2F8)
 - [Java Multithreading | Udemy](https://www.udemy.com/course/java-multithreading)
-- [Maven | Udemy()](https://www.udemy.com/course/maven-quick-start/)
-- [Database | Dzone | Essential PostgreSQL](https://https://dzone.com/refcardz/essential-postgresql)
+- [Maven | Udemy](https://www.udemy.com/course/maven-quick-start/)
+- [Database | Dzone | Essential PostgreSQL](https://dzone.com/refcardz/essential-postgresql)
