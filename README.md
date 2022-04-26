@@ -17,6 +17,7 @@ Let's start!
 - [Functional Programming in Java](functional-programming-in-java/README.md)
 - [Multithreading in Java](multithreading/README.md)
 - [Maven](maven/README.md)
+- [Database Introduction](database/README.md)
 
 ## References
 
@@ -26,3 +27,5 @@ Let's start!
 - [Learn Java | Codecademy](https://www.codecademy.com/learn/learn-java)
 - [Java Tutorial for Absolute Beginners: Learn Java in 3 hours | YouTube](https://www.youtube.com/watch?v=sjGjoDiD2F8)
 - [Java Multithreading | Udemy](https://www.udemy.com/course/java-multithreading)
+- [Maven | Udemy()]
+- [Database | Dzone | Essential PostgreSQL] (https://https://dzone.com/refcardz/essential-postgresql)
