@@ -28,4 +28,6 @@ Let's start!
 - [Java Tutorial for Absolute Beginners: Learn Java in 3 hours | YouTube](https://www.youtube.com/watch?v=sjGjoDiD2F8)
 - [Java Multithreading | Udemy](https://www.udemy.com/course/java-multithreading)
 - [Maven | Udemy](https://www.udemy.com/course/maven-quick-start/)
+- [Database | Udemy](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/)
+- [Database | Udemy | PostgreSQL](https://www.udemy.com/course/postgresql-beginner-class/)
 - [Database | Dzone | Essential PostgreSQL](https://dzone.com/refcardz/essential-postgresql)
