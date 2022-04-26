@@ -19,7 +19,7 @@ Let's start!
 
 ## References
 
-- [IntelliJ Idea IDE] (https://www.jetbrains.com/idea/)
+- [IntelliJ Idea IDE](https://www.jetbrains.com/idea/)
 - [Java Tutorial for Complete Beginners | Udemy](https://www.udemy.com/course/java-tutorial)
 - [Java for Absolute Beginners | Udemy](https://www.udemy.com/course/java-for-absolute-beginners-c)
 - [Learn Java | Codecademy](https://www.codecademy.com/learn/learn-java)
