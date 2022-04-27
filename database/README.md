@@ -60,11 +60,13 @@ Take a look also to the aggregate functions.
 
 ## 1 
 Download and install postgreSQL on your machine. 
-Create a new database called "Library". Create three tables: "Book", "Customer" and "Borrow".
+Also download and istall Postico. 
+[Here](https://postgresapp.com/) all that you need :-)
+Create a new database called "library". Create three tables: "Book", "Customer" and "Borrow".
 The minimum set of informations are:
-- Book (id, title, author, conditions)
-- Customer (id, name, address, email, phone)
-- Borrow (id, book_id, customer_id, date_start, date_end)
+- book (id, title, author, conditions)
+- customer (id, name, address, email, phone)
+- borrow (id, book_id, customer_id, date_start, date_end)
 Feel free to add other informations in each table. 
 Populated these tables within some data.
 
