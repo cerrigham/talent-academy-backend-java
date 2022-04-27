@@ -79,5 +79,3 @@ Create and test the following queries:
 
 ## 3 
 Delete some records from the tables, also try to create some inconsistency, let's do the same query above and check results. 
-
-## 2
