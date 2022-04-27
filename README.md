@@ -31,3 +31,4 @@ Let's start!
 - [Database | Udemy](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/)
 - [Database | Udemy | PostgreSQL](https://www.udemy.com/course/postgresql-beginner-class/)
 - [Database | Dzone | Essential PostgreSQL](https://dzone.com/refcardz/essential-postgresql)
+- [Database | PostgreSQL | Tutorial](https://www.postgresqltutorial.com/)
