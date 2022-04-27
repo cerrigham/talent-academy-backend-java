@@ -56,4 +56,28 @@ The GROUP BY clause divides the rows returned from the SELECT statement into gro
 Learn [here](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-group-by/) how SQL allows you to do that.
 Take a look also to the aggregate functions.
 
-At last, some examples again [here](src/main/java/it/bitrock/academy/Loops.java).
+# Exercises
+
+## 1 
+Download and install postgreSQL on your machine. 
+Create a new database called "Library". Create three tables: "Book", "Customer" and "Borrow".
+The minimum set of informations are:
+- Book (id, title, author, conditions)
+- Customer (id, name, address, email, phone)
+- Borrow (id, book_id, customer_id, date_start, date_end)
+Feel free to add other informations in each table. 
+Populated these tables within some data.
+
+## 2 
+Create and test the following queries:
+- all the books in the library with title and condition
+- all the book of a given author
+- all the book currently in borrow (suppose that a date_end not valorized means that the borrow is in pending)
+- all the borrows of each customers
+- a count of the borrows of each customers
+- a list of all the books with the count of the borrows
+
+## 3 
+Delete some records from the tables, also try to create some inconsistency, let's do the same query above and check results. 
+
+## 2
