@@ -15,6 +15,7 @@ A column holds specific information about every record in the table.
 A record (or row) is each individual entry that exists in a table.
 
 [Here](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-create-table/) you can learn how to create a table.
+[Here](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-data-types/) a complete list of data types in postgreSQL.
 
 ## Query
 
