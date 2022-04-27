@@ -59,8 +59,8 @@ Take a look also to the aggregate functions.
 # Exercises
 
 ## 1 
-Download and install postgreSQL on your machine. 
-Also download and istall Postico. 
+Download and install postgreSQL on your machine.
+Also download and istall Postico.
 [Here](https://postgresapp.com/) all that you need :-)
 Create a new database called "library". Create three tables: "Book", "Customer" and "Borrow".
 The minimum set of informations are:
