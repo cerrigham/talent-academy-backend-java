@@ -32,3 +32,9 @@ Sometimes you will need to do the same thing for multiple times.
 Learn [here](https://www.codecademy.com/learn/learn-java/modules/learn-java-loops) how Java allows you to do that.
 
 At last, some examples again [here](src/main/java/it/bitrock/academy/Loops.java).
+
+# Excercises
+
+## 1
+Write some simple functions for test primitive types variables, strings and operator. <br/>
+Try to combine primitives and strings and see what happens.
