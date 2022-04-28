@@ -4,13 +4,18 @@
 
 ## Entity
 
-Starting from Java 8 you can use lambda expressions.
-Look [here](https://www.udemy.com/course/java-tutorial/learn/lecture/1467284) to learn about them.
+In order to define an entity, you must create a class that is annotated with the @Entity annotation.<br/>
+The @Entity annotation is a marker annotation, which is used to discover persistent entities.<br/>
+Entity is the equivalent of table in RDBMS.
 
 ## Relationship
 
-Again, Java 8 introduces also the powerful Stream API.
-Look [here](https://www.udemy.com/course/stream-api-in-java-8/) how those APIs can help you to write better code.
+Once you get a set of entities, it is possible define a relationship between them.<br/>
+JPA defines four annotations for defining entities:
+ - @OneToOne
+ - @OneToMany
+ - @ManyToOne
+ - @ManyToMany
 
 ## Entity Manager
 
