@@ -18,6 +18,7 @@ Let's start!
 - [Multithreading in Java](multithreading/README.md)
 - [Maven](maven/README.md)
 - [Database Introduction](database/README.md)
+- [Database Interaction with Java](database-interaction-with-java/README.md)
 
 ## References
 
@@ -32,3 +33,5 @@ Let's start!
 - [Database | Udemy | PostgreSQL](https://www.udemy.com/course/postgresql-beginner-class/)
 - [Database | Dzone | Essential PostgreSQL](https://dzone.com/refcardz/essential-postgresql)
 - [Database | PostgreSQL | Tutorial](https://www.postgresqltutorial.com/)
+- [Database Interaction with Java | JDBC | ]()
+- [Database Interaction with Java | JPA | ]
