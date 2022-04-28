@@ -4,8 +4,8 @@
 
 ## HQL, Criteria
 
-Starting from Java 8 you can use lambda expressions.
-Look [here](https://www.udemy.com/course/java-tutorial/learn/lecture/1467284) to learn about them.
+Hibernate Query Language (HQL) is same as SQL (Structured Query Language) but it doesn't depends on the table of the database. Instead of table name, we use class name in HQL. So it is database independent query language.
+Look [here](https://www.javatpoint.com/hql) to learn about them.
 
 ## Fetch type
 
@@ -14,10 +14,15 @@ Look [here](https://www.udemy.com/course/stream-api-in-java-8/) how those APIs c
 
 ## Persistence context
 
-Learn [here](https://www.baeldung.com/java-optional) how to get rid of _null_ using _Optional_ instead.
+An EntityManager instance is associated with a persistence context. <br/>
+A persistence context is a set of entity instances in which for any persistent entity identity there is a unique entity instance. <br/>
+Within the persistence context, the entity instances and their lifecycle are managed. <br/>
+The EntityManager API is used to create and remove persistent entity instances, to find entities by their primary key, and to query over entities.
+Learn more [here](https://www.baeldung.com/jpa-hibernate-persistence-context).
 
 # Examples
 
+TODO
 Let's see some examples:
 
 - [Lambda Expressions](src/test/java/test/LambdaExpressionsTest.java),
