@@ -19,6 +19,8 @@ Let's start!
 - [Maven](maven/README.md)
 - [Database Introduction](database/README.md)
 - [Database Interaction with Java](database-interaction-with-java/README.md)
+- [Hibernate Part 1](hibernate-1/README.md)
+- [Hibernate Part 2](hibernate-2/README.md)
 
 ## References
 
@@ -36,3 +38,6 @@ Let's start!
 - [Database Interaction with Java | JDBC | JavaTPoint](https://www.javatpoint.com/java-jdbc)
 - [Database Interaction with Java | JDBC | Udemy](https://www.udemy.com/course/jdbc-api/)
 - [Database Interaction with Java | JPA | JavaTPoint](https://www.javatpoint.com/jpa-tutorial)
+- [Hibernate | Official documentation](https://hibernate.org/orm/documentation/6.0/) feel free to check previus version
+- [Hibernate | Baeldung](https://www.baeldung.com/learn-jpa-hibernate)
+- [Hibernate | JavaTPoint](https://www.javatpoint.com/hibernate-tutorial)
