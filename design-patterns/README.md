@@ -9,6 +9,7 @@ Take a look at some design patterns frequently used in Java:
 - [Builder](https://www.udemy.com/course/learn-creational-design-patterns-in-java/learn/lecture/10268372)
 - [Adapter](https://www.udemy.com/course/java-design-patterns-tutorial/learn/lecture/359623)
 - [Decorator](https://www.baeldung.com/java-visitor-pattern)
+- [Visitor](https://www.baeldung.com/java-visitor-pattern)
 - [Strategy](https://www.baeldung.com/java-strategy-pattern)
 
 # Examples
