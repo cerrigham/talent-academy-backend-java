@@ -18,5 +18,5 @@ JPA is a kind of interface, most common implementations are: Hibernate, EclipseL
 
 Let's see some examples:
 
-- [JDBC connection and query](src/test/java/test/LambdaExpressionsTest.java),
+- [JDBC connection and query](src/main/java/TutorialJdbc.java),
 - [JPA connections](src/test/java/test/StreamsTest.java),
