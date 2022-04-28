@@ -34,3 +34,15 @@ Learn [here](https://www.udemy.com/course/java-tutorial/learn/lecture/152306) ho
 
 [Here](src/main/java/it/bitrock/academy/Classes.java) you can find examples for classes, and [here](src/main/java/it/bitrock/academy/Generics.java) for generics.
 
+# Excercises
+
+## 1 
+Write some functions to test if Java pass variables and objects by value or by reference.
+
+## 2
+Write a class called Car with a method called run. These method print the statement "My car is running". <br/>
+Write a class called F1Car that extends Car and write a method called run. The ouput will be "My car is running faster". <br/>
+Create some instances of Car and F1Car and see what happens when you call run method.
+
+## 3
+Complete Car class with some overloaded method (for example a method called refuel, one with string parameter and the oter with Integer one).
