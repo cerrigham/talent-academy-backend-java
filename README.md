@@ -33,5 +33,6 @@ Let's start!
 - [Database | Udemy | PostgreSQL](https://www.udemy.com/course/postgresql-beginner-class/)
 - [Database | Dzone | Essential PostgreSQL](https://dzone.com/refcardz/essential-postgresql)
 - [Database | PostgreSQL | Tutorial](https://www.postgresqltutorial.com/)
-- [Database Interaction with Java | JDBC | ]()
-- [Database Interaction with Java | JPA | ]
+- [Database Interaction with Java | JDBC | JavaTPoint](https://www.javatpoint.com/java-jdbc)
+- [Database Interaction with Java | JDBC | Udemy](https://www.udemy.com/course/jdbc-api/)
+- [Database Interaction with Java | JPA | JavaTPoint](https://www.javatpoint.com/jpa-tutorial)
