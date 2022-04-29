@@ -4,7 +4,7 @@
 
 ## Arrays
 
-Yoy learned about Classes and Objects.
+You learned about Classes and Objects.
 [Here](https://www.udemy.com/course/java-tutorial/learn/lecture/135339) you will learn about groups of objects called arrays.
 
 ## Collection Framework
@@ -31,4 +31,4 @@ Let's see how we can exercise
 - [arrays](src/test/java/test/ArraysTest.java),
 - [lists](src/test/java/test/ListsTest.java),
 - [sets](src/test/java/test/SetsTest.java)
-- and [maps](src/test/java/test/MapsTest.java).
+- [maps](src/test/java/test/MapsTest.java).
