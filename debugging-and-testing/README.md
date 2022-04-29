@@ -24,8 +24,8 @@ A debugger is a special tool that you can use to execute your code in a strictly
 
 **Attention**
 The following links talk about IntelliJ Idea debugging, so if you use or will use another IDE (Eclipse, Visual Studio Code, ...) some command may be different.
-[First steps](https://blog.jetbrains.com/idea/2020/05/debugger-basics-in-intellij-idea/)
-[First debug example](https://www.jetbrains.com/help/idea/debugging-your-first-java-application.html)
-[Remote debug](https://www.jetbrains.com/help/idea/tutorial-remote-debug.html) very useful in some contexts.
+- [First steps](https://blog.jetbrains.com/idea/2020/05/debugger-basics-in-intellij-idea/)
+- [First debug example](https://www.jetbrains.com/help/idea/debugging-your-first-java-application.html)
+- [Remote debug](https://www.jetbrains.com/help/idea/tutorial-remote-debug.html) very useful in some contexts.
 
 > Always remember that your **Mentor** will be ready for clarify tour doubts.
