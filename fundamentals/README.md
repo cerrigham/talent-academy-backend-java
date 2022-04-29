@@ -38,3 +38,8 @@ At last, some examples again [here](src/main/java/it/bitrock/academy/Loops.java)
 ## 1
 Write some simple functions for test primitive types variables, strings and operator. <br/>
 Try to combine primitives and strings and see what happens.
+
+## 2
+Create a class Login with a const parameter called password = "xyz123kwj" . <br/>
+Create a function that simulate a login. Function receive as input a username and an array of String with three password. <br/>
+The function check the login and if the password is wrong retry with the next one, if all the password are wrong the account will be locked. <br>
