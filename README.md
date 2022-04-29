@@ -21,6 +21,7 @@ Let's start!
 - [Database Interaction with Java](database-interaction-with-java/README.md)
 - [Hibernate Part 1](hibernate-1/README.md)
 - [Hibernate Part 2](hibernate-2/README.md)
+- TODO Spring modules
 
 ## References
 
@@ -41,3 +42,4 @@ Let's start!
 - [Hibernate | Official documentation](https://hibernate.org/orm/documentation/6.0/) (feel free to check previus version)
 - [Hibernate | Baeldung](https://www.baeldung.com/learn-jpa-hibernate)
 - [Hibernate | JavaTPoint](https://www.javatpoint.com/hibernate-tutorial)
+- TODO Spring references
