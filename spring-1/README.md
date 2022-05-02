@@ -4,17 +4,26 @@
 
 ## Introduction
 
-Starting from Java 8 you can use lambda expressions.
-Look [here](https://www.udemy.com/course/java-tutorial/learn/lecture/1467284) to learn about them.
+Spring makes it easy to create Java enterprise applications. It provides everything you need to embrace the Java language in an enterprise environment. <br/>
+Spring is open source. It has a large and active community that provides continuous feedback based on a diverse range of real-world use cases. <br/>
+The Spring Framework is divided into modules. Applications can choose which modules they need. At the heart are the modules of the core container, including a configuration model and a dependency injection mechanism. Beyond that, the Spring Framework provides foundational support for different application architectures, including messaging, transactional data and persistence, and web. It also includes the Servlet-based Spring MVC web framework and, in parallel, the Spring WebFlux reactive web framework.<br/>
+Learn [here](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html) about this framework. <br/>
+Look [here](https://www.jetbrains.com/help/idea/your-first-spring-application.html#add-greeting-method) for an Hello World application in Spring(boot).
 
 ## Configuration
 
-Again, Java 8 introduces also the powerful Stream API.
-Look [here](https://www.udemy.com/course/stream-api-in-java-8/) how those APIs can help you to write better code.
+TODO
 
 ## Beans definition
 
-Learn [here](https://www.baeldung.com/java-optional) how to get rid of _null_ using _Optional_ instead.
+[Here](https://www.baeldung.com/spring-bean) a definition of Spring Bean. <br/>
+Learn [here](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-definition) about Bean. <br/>
+A Beans must have a scope:
+- Singleton (the container creates a single instance of that bean)
+- Prototype (a bean with the prototype scope will return a different instance every time it is requested from the container)
+- Request
+- Session
+- Application (when beans are application scoped, the same instance of the bean is shared across multiple servlet-based applications running in the same ServletContext, while singleton scoped beans are scoped to a single application context only.
 
 # Examples
 
