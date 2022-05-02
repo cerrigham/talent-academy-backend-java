@@ -14,6 +14,7 @@ Look [here](https://www.baeldung.com/spring-annotations-resource-inject-autowire
 
 ## Spring Boot
 
+Look [here](https://spring.io/projects/spring-boot) to learn about.
 Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run". <br/>
 We take an opinionated view of the Spring platform and third-party libraries so you can get started with minimum fuss. Most Spring Boot applications need minimal Spring configuration. <br/><br/>
 Features:
@@ -23,8 +24,6 @@ Features:
  - automatically configure Spring and 3rd party libraries whenever possible
  - provide production-ready features such as metrics, health checks, and externalized configuration
  - absolutely no code generation and no requirement for XML configuration
-<br/> 
-Look [here](https://spring.io/projects/spring-boot) to learn about.
 
 # Examples
 
