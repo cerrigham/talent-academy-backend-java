@@ -12,7 +12,7 @@ Look [here](https://www.jetbrains.com/help/idea/your-first-spring-application.ht
 
 ## Configuration
 
-TODO
+TODO 
 
 ## Beans definition
 
