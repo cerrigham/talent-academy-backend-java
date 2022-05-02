@@ -21,7 +21,10 @@ Let's start!
 - [Database Interaction with Java](database-interaction-with-java/README.md)
 - [Hibernate Part 1](hibernate-1/README.md)
 - [Hibernate Part 2](hibernate-2/README.md)
-- TODO Spring modules
+- [Spring Part 1](spring-1/README.md)
+- [Spring Part 2](spring-2/README.md)
+- [Spring Part 3](spring-3/README.md)
+- [Spring Part 4](spring-4/README.md)
 
 ## References
 
@@ -44,6 +47,14 @@ Let's start!
 - [Hibernate | JavaTPoint](https://www.javatpoint.com/hibernate-tutorial)
 - [Spring | Official documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 - [Spring | Udemy](https://www.udemy.com/course/spring-core/)
+- [Spring | Inversion of Control - IoC](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
 - [Springboot | Official documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-- [Springboot | Udemy](https://www.udemy.com/course/spring-boot-complete-guide-from-development-to-deployment/) 
-- [SpringData | Official documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
+- [Springboot | Udemy](https://www.udemy.com/course/spring-boot-complete-guide-from-development-to-deployment/)
+- [Springboot | Spring Initializr](https://start.spring.io/)
+- [Spring Data | Official documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
+- [REST | Youtube](https://www.youtube.com/watch?v=lsMQRaeKNDk)
+- [Spring MVC | Official documentation](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
+- [Lombok | Avoid repetitive Ccde](https://projectlombok.org/)
+- [Lombok - Baeldung](https://www.baeldung.com/intro-to-project-lombok)
+- [Clean Code - Fundamentals](https://betterprogramming.pub/12-conventions-for-writing-clean-code-e16c51e3939a)(https://www.freecodecamp.org/news/clean-coding-for-beginners/)
+- [Java | Google | Style guide](https://google.github.io/styleguide/javaguide.html)
