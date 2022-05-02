@@ -5,8 +5,12 @@
 
 ## Annotation-based Dependency Injection
 
-Starting from Java 8 you can use lambda expressions.
-Look [here](https://www.udemy.com/course/java-tutorial/learn/lecture/1467284) to learn about them.
+In Spring Framework annotations related to dependency injection are, namely 
+ - @Resource
+ - @Inject
+ - @Autowired
+
+Look [here](https://www.baeldung.com/spring-annotations-resource-inject-autowire) to learn about them.
 
 ## Spring Boot
 
