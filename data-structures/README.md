@@ -32,3 +32,14 @@ Let's see how we can exercise
 - [lists](src/test/java/test/ListsTest.java),
 - [sets](src/test/java/test/SetsTest.java)
 - [maps](src/test/java/test/MapsTest.java).
+
+# Exercises 
+
+## 1 
+Create a class with a method that given in input an array of 10 elements, return the lowest.
+
+## 2
+Pass as parameter to the same method an aray of 10000 numbers (use Random utilityes) and execute it. What happens?
+
+## 3
+Let's do some simple methods using set, list, and maps. Try to learn about their potencials and their utilities.
