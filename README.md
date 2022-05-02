@@ -42,4 +42,8 @@ Let's start!
 - [Hibernate | Official documentation](https://hibernate.org/orm/documentation/6.0/) (feel free to check previus version)
 - [Hibernate | Baeldung](https://www.baeldung.com/learn-jpa-hibernate)
 - [Hibernate | JavaTPoint](https://www.javatpoint.com/hibernate-tutorial)
-- TODO Spring references
+- [Spring | Official documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
+- [Spring | Udemy]()
+- [Springboot | Official documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+- [Springboot | Udemy]() 
+- [SpringData | Official documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
