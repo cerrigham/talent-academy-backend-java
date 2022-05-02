@@ -20,7 +20,7 @@ Features:
  - provide production-ready features such as metrics, health checks, and externalized configuration
  - absolutely no code generation and no requirement for XML configuration
 <br/>
-Start [here]https://spring.io/projects/spring-boot) to learn about Spring Boot.
+Start [here](https://spring.io/projects/spring-boot) to learn about Spring Boot.
 
 # Examples
 
