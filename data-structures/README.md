@@ -42,4 +42,4 @@ Create a class with a method that given in input an array of 10 elements, return
 Pass as parameter to the same method an aray of 10000 numbers (use Random utilityes) and execute it. What happens?
 
 ## 3
-Let's do some simple methods using set, list, and maps. Try to learn about their potencials and their utilities.
+Let's do some simple methods using set, list, and maps. Try to learn about their potencials and their usefulness.
