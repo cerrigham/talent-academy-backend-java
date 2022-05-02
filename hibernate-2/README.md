@@ -4,6 +4,7 @@
 
 ## HQL, Criteria
 
+### HQL
 Hibernate Query Language (HQL) is same as SQL (Structured Query Language) but it doesn't depends on the table of the database. Instead of table name, we use class name in HQL. So it is database independent query language. <br/>
 Look [here](https://www.javatpoint.com/hql) to learn about them.
 <br/>
