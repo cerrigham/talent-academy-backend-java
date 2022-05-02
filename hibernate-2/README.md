@@ -4,8 +4,11 @@
 
 ## HQL, Criteria
 
-Hibernate Query Language (HQL) is same as SQL (Structured Query Language) but it doesn't depends on the table of the database. Instead of table name, we use class name in HQL. So it is database independent query language.
+Hibernate Query Language (HQL) is same as SQL (Structured Query Language) but it doesn't depends on the table of the database. Instead of table name, we use class name in HQL. So it is database independent query language. <br/>
 Look [here](https://www.javatpoint.com/hql) to learn about them.
+<br/>
+The Criteria API allows us to build up a criteria query object programmatically, where we can apply different kinds of filtration rules and logical conditions.<br/>
+Look [here](https://www.baeldung.com/hibernate-criteria-queries)to learn about them.
 
 ## Fetch type
 
