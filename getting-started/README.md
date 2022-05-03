@@ -4,7 +4,8 @@
 
 ## Introduction to the Java World
 
-TODO
+Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages, <br/>
+The language was initially called Oak after an oak tree that stood outside Gosling's office. Later the project went by the name Green and was finally renamed Java, from Java coffee, a type of coffee from Indonesia.<br/>
 
 ## JDK setup
 
