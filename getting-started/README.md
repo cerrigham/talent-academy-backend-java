@@ -5,7 +5,19 @@
 ## Introduction to the Java World
 
 Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages, <br/>
-The language was initially called Oak after an oak tree that stood outside Gosling's office. Later the project went by the name Green and was finally renamed Java, from Java coffee, a type of coffee from Indonesia.<br/>
+The language was initially called Oak after an oak tree that stood outside Gosling's office (Sun Microsystems). Later the project went by the name Green and was finally renamed Java, from Java coffee, a type of coffee from Indonesia.<br/>
+
+### Principles
+There were five primary goals in the creation of the Java language:
+ - it must be simple, object-oriented, and familiar
+ - it must be robust and secure
+ - it must be architecture-neutral and portable
+ - it must execute with high performance
+ - it must be interpreted, threaded, and dynamic
+
+### Execution system
+Portability means that programs written for the Java platform must run similarly on any combination of hardware and operating system with adequate run time support. This is achieved by compiling the Java language code to an intermediate representation called Java bytecode, instead of directly to architecture-specific machine code. <br/>
+Java uses an automatic garbage collector to manage memory in the object lifecycle. <br/>
 
 ## JDK setup
 
