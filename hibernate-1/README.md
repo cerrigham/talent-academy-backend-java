@@ -26,10 +26,16 @@ Learn [here](https://www.journaldev.com/17379/jpa-entitymanager-hibernate) about
 
 # Examples
 
-TODO
-Let's see some examples:
+Download tutorial-hibernate.zip and open the project with ItelliJ. 
 
-- [Lambda Expressions](src/test/java/test/LambdaExpressionsTest.java),
-- [Stream API](src/test/java/test/StreamsTest.java),
-- [Optional](src/test/java/test/OptionalTest.java).
+# Exercices
+
+Modify the tutorial-hibernate project creating the following query
+ - all the books in the library with title and condition
+ - all the book of a given author
+ - all the book currently in borrow (suppose that a date_end not valorized means that the borrow is in pending)
+ - all the borrows of each customers
+ - a count of the borrows of each customers
+ - a list of all the books with the count of the borrows
+Tips: create a function for each query with the needed parameters and the session one.
 
