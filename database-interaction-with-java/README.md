@@ -19,7 +19,7 @@ JPA is a kind of interface, most common implementations are: Hibernate, EclipseL
 Let's see some examples:
 
 - [JDBC connection and query](src/main/java/TutorialJdbc.java),
-- [JPA connections](src/test/java/test/StreamsTest.java),
+- [JPA connections](src/test/java/test/StreamsTest.java)
 
 # Exercises 
 
@@ -27,4 +27,4 @@ Let's see some examples:
 Modify TutorialJdbc.java (and TutorialJdbcTest.java) in order to do the queries from the previous module.
 
 # 2
-Download and open TutorialJpa project, take a look of the difference between JDBC and JPA.
+Download and open TutorialJpa project, take a look of the difference between JDBC and JPA (we'll study in deep later).
