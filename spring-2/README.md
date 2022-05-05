@@ -37,4 +37,9 @@ Once you see these in your console:<br/>
 <br/>
 open your browser and write this url http://localhost:8080, if it's all fine you'll read "Hello my Friend".
 
+# Exercises
+
+## 1
+Create others endpoint into SprinbootDemoController class.
+
 
