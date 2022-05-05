@@ -29,10 +29,12 @@ Features:
 # Examples
 
 Download springboot-demo.zip, uncompress and open it with IntelliJ. <br/>
-Go to SpringbootDemoApplication.java and start the application:
+Go to SpringbootDemoApplication.java and start the application (press on the green arrow): <br/>
 <img width="1018" alt="Screenshot 2022-05-05 at 14 27 51" src="https://user-images.githubusercontent.com/6083938/166922844-4ad3932e-0d07-4c4d-ab09-2fb0d52b501e.png">
-Once you see these in your console:
+<br/>
+Once you see these in your console:<br/>
 <img width="1241" alt="Screenshot 2022-05-05 at 14 28 53" src="https://user-images.githubusercontent.com/6083938/166922967-b554709a-9a68-4e1d-8d04-4d993192abee.png">
+<br/>
 open your browser and write this url http://localhost:8080, if it's all fine you'll read "Hello my Friend".
 
 
