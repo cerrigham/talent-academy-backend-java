@@ -14,4 +14,9 @@ That data can be used to GET, PUT, POST and DELETE data types, which refers to t
 
 Download the project contained in the .zip file, is the same project used for Sprind Data module but take a look at che BookController class and the BookService one.
 
+# Exercices
+
+## 1
+Create Controller and Service class for the Customer and Borrow entity.
+Also create tesst for all the methods. 
 
