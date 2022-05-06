@@ -10,9 +10,10 @@ Hibernate is a JPA provider and ORM that maps Java objects to relational databas
 
 # Examples
 
-Let's see some examples:
+Download spring-data-jpa-demo.zip and open the project with IntelliJ.
 
-- [Lambda Expressions](src/test/java/test/LambdaExpressionsTest.java),
-- [Stream API](src/test/java/test/StreamsTest.java),
-- [Optional](src/test/java/test/OptionalTest.java).
+# Exercises
 
+## 1
+Create CustomerRepository and BorrowRepository class within the methods you think are useful.
+Let's create test for all of these methods with positive and negative cases.
