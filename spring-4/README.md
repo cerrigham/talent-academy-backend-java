@@ -9,6 +9,13 @@ That data can be used to GET, PUT, POST and DELETE data types, which refers to t
 [Here](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html) to learn about Spring MVC framework. <br/>
 [Here](https://www.youtube.com/watch?v=Ku3gsv7_bCc) a video explanation of MVC and Spring MVC. <br/>
 [Here](https://spring.io/guides/gs/rest-service/) a tutorial.
+[Here](https://www.baeldung.com/java-dto-pattern) something about DTO design pattern.
+
+### MVC
+Model View Controller
+
+### Design Pattern in Spring
+Read [Here](https://www.baeldung.com/spring-framework-design-patterns) about design pattern in Spring. 
 
 # Examples
 
