@@ -34,6 +34,7 @@ Let's start!
 - [Learn Java | Codecademy](https://www.codecademy.com/learn/learn-java)
 - [Java Tutorial for Absolute Beginners: Learn Java in 3 hours | YouTube](https://www.youtube.com/watch?v=sjGjoDiD2F8)
 - [Java Multithreading | Udemy](https://www.udemy.com/course/java-multithreading)
+- [Java Multithreading | Dzone](https://dzone.com/articles/threads-in-java?edition=650403&utm_medium=email&utm_source=dzone&utm_content=Threads%2Bin%2BJava&utm_campaign=)
 - [Maven | Udemy](https://www.udemy.com/course/maven-quick-start/)
 - [Database | Udemy](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/)
 - [Database | Udemy | PostgreSQL](https://www.udemy.com/course/postgresql-beginner-class/)
