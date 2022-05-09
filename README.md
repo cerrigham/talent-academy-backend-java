@@ -42,7 +42,7 @@ Let's start!
 - [Database Interaction with Java | JDBC | JavaTPoint](https://www.javatpoint.com/java-jdbc)
 - [Database Interaction with Java | JDBC | Udemy](https://www.udemy.com/course/jdbc-api/)
 - [Database Interaction with Java | JPA | JavaTPoint](https://www.javatpoint.com/jpa-tutorial)
-- [Hibernate | Official documentation](https://hibernate.org/orm/documentation/6.0/) (feel free to check previus version)
+- [Hibernate | Official documentation](https://hibernate.org/orm/documentation/6.0/)
 - [Hibernate | Baeldung](https://www.baeldung.com/learn-jpa-hibernate)
 - [Hibernate | JavaTPoint](https://www.javatpoint.com/hibernate-tutorial)
 - [Spring | Official documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/)
@@ -54,6 +54,10 @@ Let's start!
 - [Spring Data | Official documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
 - [REST | Youtube](https://www.youtube.com/watch?v=lsMQRaeKNDk)
 - [Spring MVC | Official documentation](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
+- [DTO Pattern | Baeldung](https://www.baeldung.com/java-dto-pattern)
+
+## Bonus
+
 - [Lombok | Avoid repetitive Code](https://projectlombok.org/)
 - [Lombok | Baeldung](https://www.baeldung.com/intro-to-project-lombok)
 - [Clean Code | Conventions](https://betterprogramming.pub/12-conventions-for-writing-clean-code-e16c51e3939a)
