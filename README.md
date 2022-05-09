@@ -64,3 +64,4 @@ Let's start!
 - [Clean Code | Conventions](https://betterprogramming.pub/12-conventions-for-writing-clean-code-e16c51e3939a)
 - [Clean Code | Tips](https://www.freecodecamp.org/news/clean-coding-for-beginners/)
 - [Java | Google | Style guide](https://google.github.io/styleguide/javaguide.html)
+- [GIT - Dzone](https://dzone.com/articles/top-20-git-commands-with-examples?edition=728525)
