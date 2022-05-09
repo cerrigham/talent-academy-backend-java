@@ -14,13 +14,12 @@ That data can be used to GET, PUT, POST and DELETE data types, which refers to t
 ### MVC
 Model View Controller. <br/>
 In the MVC pattern, features are divided into three components based on three separate concerns. Firstly, the view is responsible for rendering UI elements. Secondly, the controller responds to UI actions. And the model handles business behaviors and state management. <br/>
-In most implementations, all three components can directly interact with each other. However, in some implementations, the controller is responsible for determining which view to display.
+In most implementations, all three components can directly interact with each other. However, in some implementations, the controller is responsible for determining which view to display. <br/><br/>
 
-The diagram below shows the MVC flow of control:
+The diagram below shows the MVC flow of control: <br/>
 ![image](https://user-images.githubusercontent.com/6083938/167494057-d6ce557e-69f0-45cf-8f51-e866e415557c.png)
-
-
-The model represents the whole business logic layer. The view represents the data fetched from the model. In addition, it handles presentation logic. Lastly, the controller handles control flow logic and updates the model.
+<br/>
+The model represents the whole business logic layer. The view represents the data fetched from the model. In addition, it handles presentation logic. Lastly, the controller handles control flow logic and updates the model.<br/><br/>
 
 MVC doesn't specify how the view and the model should be structured internally. Usually, the view layer is implemented in a single class.
 
