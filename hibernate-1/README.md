@@ -30,7 +30,7 @@ Download tutorial-hibernate.zip and open the project with ItelliJ.
 
 # Exercices
 
-Modify the tutorial-hibernate project creating the following query
+Modify the tutorial-hibernate project creating the following query:
  - all the books in the library with title and condition
  - all the book of a given author
  - all the book currently in borrow (suppose that a date_end not valorized means that the borrow is in pending)
