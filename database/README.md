@@ -1,6 +1,6 @@
 [Back](../README.md) to main page.
 
-# Database
+# Database Introduction
 
 ## Relational database intro
 
