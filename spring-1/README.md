@@ -25,10 +25,6 @@ A Beans must have a scope:
 - Session
 - Application (when beans are application scoped, the same instance of the bean is shared across multiple servlet-based applications running in the same ServletContext, while singleton scoped beans are scoped to a single application context only.
 
-# Examples
+## Examples
 
-Let's see some examples:
-
-- [Lambda Expressions](src/test/java/test/LambdaExpressionsTest.java),
-- [Stream API](src/test/java/test/StreamsTest.java),
-- [Optional](src/test/java/test/OptionalTest.java).
+Let's make something together.
