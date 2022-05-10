@@ -12,7 +12,7 @@ Look [here](https://www.jetbrains.com/help/idea/your-first-spring-application.ht
 
 ## Configuration
 
-TODO 
+Take a look [here](https://www.udemy.com/course/spring-framework-video-tutorial/) for get all the information about Spring configuration. 
 
 ## Beans definition
 
