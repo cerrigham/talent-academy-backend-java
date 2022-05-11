@@ -16,6 +16,10 @@ Look [here](https://www.udemy.com/course/stream-api-in-java-8/) how those APIs c
 
 Learn [here](https://www.baeldung.com/java-optional) how to get rid of _null_ using _Optional_ instead.
 
+## Predicate
+
+Learn [here](https://www.baeldung.com/java-predicate-chain) about predicate chain in Java 8. 
+
 # Examples
 
 Let's see some examples:
