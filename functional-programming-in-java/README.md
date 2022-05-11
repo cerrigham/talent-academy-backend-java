@@ -10,7 +10,7 @@ Look [here](https://www.udemy.com/course/java-tutorial/learn/lecture/1467284) to
 ## Stream API
 
 Again, Java 8 introduces also the powerful Stream API.
-Look [here](https://www.udemy.com/course/stream-api-in-java-8/) how those APIs can help you to write better code.
+Look [here](https://www.udemy.com/course/stream-api-in-java-8/) and [here](https://stackify.com/streams-guide-java-8/) how those APIs can help you to write better code.
 
 ## Optional
 
