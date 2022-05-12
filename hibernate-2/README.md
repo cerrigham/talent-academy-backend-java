@@ -30,11 +30,7 @@ Learn more [here](https://www.baeldung.com/jpa-hibernate-persistence-context).
 
 # Examples
 
-TODO
-Let's see some examples:
-
-- [Lambda Expressions](src/test/java/test/LambdaExpressionsTest.java),
-- [Stream API](src/test/java/test/StreamsTest.java),
-- [Optional](src/test/java/test/OptionalTest.java).
+Download the project into the .zip file, it's a very simple one.
+Let's make some tests and some useful classes and methods.
 
 
