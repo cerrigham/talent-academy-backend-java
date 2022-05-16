@@ -11,6 +11,12 @@ That data can be used to GET, PUT, POST and DELETE data types, which refers to t
 [Here](https://spring.io/guides/gs/rest-service/) a tutorial.
 [Here](https://www.baeldung.com/java-dto-pattern) something about DTO design pattern.
 
+### JSON
+JSON stands for JavaScript Object Notation:
+- it is a text format for storing and transporting data
+- it is "self-describing" and easy to understand
+[Here](https://www.w3schools.com/js/js_json_intro.asp) an introduction to JSON.
+
 ### MVC Model View Controller
 In the MVC pattern, features are divided into three components based on three separate concerns. Firstly, the view is responsible for rendering UI elements. Secondly, the controller responds to UI actions. And the model handles business behaviors and state management. <br/>
 In most implementations, all three components can directly interact with each other. However, in some implementations, the controller is responsible for determining which view to display. <br/>
