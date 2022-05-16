@@ -24,7 +24,7 @@ Let's put all in practice
 - [Visitor](src/test/java/test/VisitorTest.java),
 - [Strategy](src/test/java/test/StrategyTest.java).
 
-# Ecercises
+# Excercises
 
 # 1 - Singleton
 Create a singleton Servers of lazy type. This singleton stores the list of servers (as String). Implement the following functionalities:
