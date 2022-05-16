@@ -65,3 +65,5 @@ Let's start!
 - [Clean Code | Tips](https://www.freecodecamp.org/news/clean-coding-for-beginners/)
 - [Java | Google | Style guide](https://google.github.io/styleguide/javaguide.html)
 - [GIT - Dzone](https://dzone.com/articles/top-20-git-commands-with-examples?edition=728525)
+- [JSON Formatter](https://jsonformatter.org/)
+- [REST vs SOAP](https://www.redhat.com/en/topics/integration/whats-the-difference-between-soap-rest)
