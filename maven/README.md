@@ -9,5 +9,5 @@ Maven addresses two aspects of building software: how software is built, and its
 Maven dynamically downloads Java libraries and Maven plug-ins from one or more repositories such as the Maven 2 Central Repository, and stores them in a local cache.
 Let's try to understand its basics [here](https://www.udemy.com/course/maven-quick-start/).
 [Here](https://www.youtube.com/watch?v=Xatr8AZLOsE&t=17s) a beautiful  video intoducing Maven.
-<br/>
+<br/><br/>
 Then, let's try to clarify something through some [examples](src/test/java/test).
