@@ -32,6 +32,7 @@ Let's start!
 - [Java Tutorial for Complete Beginners | Udemy](https://www.udemy.com/course/java-tutorial)
 - [Java for Absolute Beginners | Udemy](https://www.udemy.com/course/java-for-absolute-beginners-c)
 - [Learn Java | Codecademy](https://www.codecademy.com/learn/learn-java)
+- [Generics](https://www.youtube.com/watch?v=_6QIeNt1u5M)
 - [Java Tutorial for Absolute Beginners: Learn Java in 3 hours | YouTube](https://www.youtube.com/watch?v=sjGjoDiD2F8)
 - [Java Multithreading | Udemy](https://www.udemy.com/course/java-multithreading)
 - [Java Multithreading | Dzone](https://dzone.com/articles/threads-in-java?edition=650403&utm_medium=email&utm_source=dzone&utm_content=Threads%2Bin%2BJava&utm_campaign=)
