@@ -46,3 +46,6 @@ Create some instances of Car and F1Car and see what happens when you call run me
 
 ## 3
 Complete Car class with some overloaded method (for example a method called refuel, one with string parameter and the oter with Integer one).
+
+## 4
+Create all the classes, abstract classes, intefaces with methods useful to design chess game
