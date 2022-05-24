@@ -49,3 +49,22 @@ Complete Car class with some overloaded method (for example a method called refu
 
 ## 4
 Create all the classes, abstract classes, intefaces with methods useful to design chess game
+
+## 5
+We are into the Ferrari factory. We have to design the stearing wheels for every car tipology:
+- Supercar 
+- GT Car
+- F1 Car
+Basic functions are:
+- increase decrease gear
+- insert retro gear
+- insert null gear
+- show velocity
+- show rpm
+GT car:
+- contact team Radio
+- balancing brake (front)
+F1 car:
+- balacing brake (front and rear)
+- drink button
+- indicator for correct gear change
