@@ -55,15 +55,18 @@ We are into the Ferrari factory. We have to design the stearing wheels for every
 - Supercar 
 - GT Car
 - F1 Car
+<br/>
 Basic functions are:
 - increase decrease gear
 - insert retro gear
 - insert null gear
 - show velocity
 - show rpm
+<br/>
 GT car:
 - contact team Radio
 - balancing brake (front)
+<br/>
 F1 car:
 - balacing brake (front and rear)
 - drink button
