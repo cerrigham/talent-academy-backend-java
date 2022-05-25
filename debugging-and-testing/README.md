@@ -40,6 +40,6 @@ Then create all the test methods (positive case, negative case, exception case) 
 Modify Calculator class using Generics/Interface, so create ad hoc test case for each function.
 
 ### 3
-Read Junit and Mocjito documentations, write down any questions or doubt. We'll try to solve them tomorrow in the afternoon. 
+Read Junit and Mockito documentations, write down any questions or doubt. We'll try to solve them tomorrow in the afternoon. 
 
 
