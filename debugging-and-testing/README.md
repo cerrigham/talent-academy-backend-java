@@ -29,3 +29,17 @@ The following links talk about IntelliJ Idea debugging, so if you use or will us
 - [Remote debug](https://www.jetbrains.com/help/idea/tutorial-remote-debug.html) very useful in some contexts.
 
 > Always remember that your **Mentor** will be ready for clarify tour doubts.
+
+## Excercises
+
+### 1
+Create a class Calculator with simple methods sum, diff, mul and div (with Integer parameters). <br>
+Then create all the test methods (positive case, negative case, exception case) and modify methods in Calculator class in order to avoid exceptions and errors (i.e. nullPointerException, divByZero, ...)
+
+### 2
+Modify Calculator class using Generics/Interface, so create ad hoc test case for each function.
+
+### 3
+Read Junit and Mocjito documentations, write down any questions or doubt. We'll try to solve them tomorrow in the afternoon. 
+
+
