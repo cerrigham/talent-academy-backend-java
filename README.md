@@ -13,7 +13,7 @@ Let's start!
 - [Object-Oriented Programming](object-oriented-programming/README.md)
 - [Debugging and testing](debugging-and-testing/README.md)
 - [Data structures](data-structures/README.md)
-- [Regular Expression](https://www.w3schools.com/java/java_regex.asp)
+- [Regular Expression](https://www.w3schools.com/java/java_regex.asp)(https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html)
 - [Java Common OOP Patterns](design-patterns/README.md)
 - [Functional Programming in Java](functional-programming-in-java/README.md)
 - [Multithreading in Java](multithreading/README.md)
