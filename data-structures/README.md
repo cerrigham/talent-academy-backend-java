@@ -43,3 +43,6 @@ Pass as parameter to the same method an aray of 10000 numbers (use Random utilit
 
 ## 3
 Let's do some simple methods using set, list, and maps. Try to learn about their potencials and their usefulness.
+
+## 4
+Complete number-roman program. 
