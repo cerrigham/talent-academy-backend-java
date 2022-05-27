@@ -13,7 +13,6 @@ Let's start!
 - [Object-Oriented Programming](object-oriented-programming/README.md)
 - [Debugging and testing](debugging-and-testing/README.md)
 - [Data structures](data-structures/README.md)
-- [Regular Expression](https://www.w3schools.com/java/java_regex.asp)(https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html)
 - [Java Common OOP Patterns](design-patterns/README.md)
 - [Functional Programming in Java](functional-programming-in-java/README.md)
 - [Multithreading in Java](multithreading/README.md)
@@ -63,6 +62,7 @@ Let's start!
 
 ## Bonus
 
+- [Regular Expression](https://www.w3schools.com/java/java_regex.asp)(https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html)(https://towardsdatascience.com/regular-expressions-clearly-explained-with-examples-822d76b037b4#:~:text=Regular%20expression%20is%20not%20a,space%20characters%20to%20special%20characters.)(https://regexr.com/)
 - [Lombok | Avoid repetitive Code](https://projectlombok.org/)
 - [Lombok | Baeldung](https://www.baeldung.com/intro-to-project-lombok)
 - [Clean Code | Conventions](https://betterprogramming.pub/12-conventions-for-writing-clean-code-e16c51e3939a)
