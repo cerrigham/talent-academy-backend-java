@@ -45,4 +45,17 @@ Pass as parameter to the same method an aray of 10000 numbers (use Random utilit
 Let's do some simple methods using set, list, and maps. Try to learn about their potencials and their usefulness.
 
 ## 4
-Complete number-roman program. 
+Complete roman-number program (mappe e funzioni ricorsive). 
+
+## 5
+Create a new project with three classes. <br/>
+First one is called Artist and contains the following attribute: id, name, surname, artisticalName, dateOfBirth (choise on your own the kind of data attribute). <br/>
+Second class is called Paint and contains: id, title, yearOfCreation, artisticWave. (choise on your own the kind of data attribute).<br/>
+Last one is the class Museum and contains: id, name, address, state, numberOfPainting, telephones (because there are a number for each departement). (choise on your own the kind of data attribute).<br/>
+Every class must be sortable, for the Artist implement Comparable's interface, for Paint implement Comparator's interface.
+Write a Test class for testing sorting method, and a class with a main method where I can try your functions.
+N.B.
+Every class must also implement a toString() method. 
+
+## 6
+Q/A about Collections, Map, List, Set ... .
