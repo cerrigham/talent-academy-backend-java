@@ -63,9 +63,9 @@ Let's start!
 ## Bonus
 
 - [Regular Expression](https://www.w3schools.com/java/java_regex.asp)
-- [Regular Expression](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html)
-- [Regular Expression](https://towardsdatascience.com/regular-expressions-clearly-explained-with-examples-822d76b037b4#:~:text=Regular%20expression%20is%20not%20a,space%20characters%20to%20special%20characters.)
-- [Regular Expression](https://regexr.com/)
+- [Regular Expression | Step by step](https://towardsdatascience.com/regular-expressions-clearly-explained-with-examples-822d76b037b4#:~:text=Regular%20expression%20is%20not%20a,space%20characters%20to%20special%20characters.)
+- [Regular Expression | Explained](https://regexr.com/)
+- [Regular Expression | Test](https://regex101.com/)
 - [Lombok | Avoid repetitive Code](https://projectlombok.org/)
 - [Lombok | Baeldung](https://www.baeldung.com/intro-to-project-lombok)
 - [Clean Code | Conventions](https://betterprogramming.pub/12-conventions-for-writing-clean-code-e16c51e3939a)
