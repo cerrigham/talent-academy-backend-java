@@ -36,6 +36,7 @@ Let's start!
 - [Java Tutorial for Absolute Beginners: Learn Java in 3 hours | YouTube](https://www.youtube.com/watch?v=sjGjoDiD2F8)
 - [Java Testing | Baeldung | JUnit](https://www.baeldung.com/junit)
 - [Java Testing | Baeldung | Mockito](https://www.baeldung.com/mockito-series)
+- [Java Date | Baeldung](https://www.baeldung.com/java-8-date-time-intro)
 - [Java Multithreading | Udemy](https://www.udemy.com/course/java-multithreading)
 - [Java Multithreading | Dzone](https://dzone.com/articles/threads-in-java?edition=650403&utm_medium=email&utm_source=dzone&utm_content=Threads%2Bin%2BJava&utm_campaign=)
 - [Maven | Udemy](https://www.udemy.com/course/maven-quick-start/)
