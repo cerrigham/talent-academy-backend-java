@@ -13,6 +13,17 @@ Take a look at some design patterns frequently used in Java:
 - [Strategy](https://www.baeldung.com/java-strategy-pattern)
 - [MVC](https://www.udemy.com/course/java-design-patterns-tutorial/learn/lecture/227033#overview) e successivi capitoli (dal 4 al 9)
 
+# Other links
+[General](https://refactoring.guru/design-patterns/classification)
+[Catalog](https://refactoring.guru/design-patterns/catalog)
+[Singleton](https://refactoring.guru/design-patterns/singleton) and[here](https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm)
+[Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory) and [here](https://italiancoders.it/abstract-factory-design-pattern/) and [here](https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm)
+[Builder](https://italiancoders.it/builder-pattern-un-ottima-alternativa-al-costruttore/)
+[Adapter](https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm)
+[Decorator](https://italiancoders.it/decorator-pattern/)
+[Visitor](https://italiancoders.it/visitor-pattern/)
+[Strategy](https://refactoring.guru/design-patterns/strategy) and [here](https://italiancoders.it/strategy-design-pattern/)
+
 # Examples
 
 Let's put all in practice
