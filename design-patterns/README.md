@@ -11,6 +11,7 @@ Take a look at some design patterns frequently used in Java:
 - [Decorator](https://www.baeldung.com/java-visitor-pattern)
 - [Visitor](https://www.baeldung.com/java-visitor-pattern)
 - [Strategy](https://www.baeldung.com/java-strategy-pattern)
+- [MVC](https://www.udemy.com/course/java-design-patterns-tutorial/learn/lecture/227033#overview) e successivi capitoli
 
 # Examples
 
@@ -22,7 +23,7 @@ Let's put all in practice
 - [Adapter](src/test/java/test/AdapterTest.java),
 - [Decorator](src/test/java/test/DecoratorTest.java),
 - [Visitor](src/test/java/test/VisitorTest.java),
-- [Strategy](src/test/java/test/StrategyTest.java).
+- [Strategy](src/test/java/test/StrategyTest.java),
 
 # Excercises
 
