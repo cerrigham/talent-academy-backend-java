@@ -2,6 +2,9 @@
 
 # Functional Programming in Java
 
+## Overview
+Starting [here](https://www.baeldung.com/java-8-new-features).
+
 ## Lambda Expressions
 
 Starting from Java 8 you can use lambda expressions.
