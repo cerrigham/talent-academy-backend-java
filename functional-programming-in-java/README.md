@@ -6,7 +6,7 @@
 Starting [here](https://www.baeldung.com/java-8-new-features).
 
 ## Functional Interface
-Look [here](https://www.geeksforgeeks.org/functional-interfaces-java/#:~:text=A%20functional%20interface%20is%20an,any%20number%20of%20default%20methods.)
+Look [here](https://www.geeksforgeeks.org/functional-interfaces-java/#:~:text=A%20functional%20interface%20is%20an,any%20number%20of%20default%20methods.).
 
 ## Lambda Expressions
 
