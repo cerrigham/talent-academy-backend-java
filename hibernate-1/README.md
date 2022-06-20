@@ -19,7 +19,7 @@ JPA defines four annotations for defining entities:
  - @ManyToMany
 Learn [here](https://stackabuse.com/a-guide-to-jpa-with-hibernate-relationship-mapping/) Hibernate relationship mapping. 
 <br/>
-[Here](https://www.baeldung.com/jpa-cascade-types) JPA Cascade types. <br/>
+[Here](https://www.baeldung.com/jpa-cascade-types) JPA Cascade types.<br/>
 
 ## Entity Manager
 
