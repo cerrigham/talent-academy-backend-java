@@ -12,7 +12,8 @@ Look [here](https://www.javatpoint.com/java-jdbc) to learn about it.
 
 JPA is just a specification that facilitates object-relational mapping to manage relational data in Java applications. It provides a platform to work directly with objects instead of using SQL statements.
 Look [here](https://www.javatpoint.com/jpa-tutorial) for an introduction.
-JPA is a kind of interface, most common implementations are: Hibernate, EclipseLink and Apache Open JPA, in these academy we'll talk and learn about Hibernate.
+JPA is a kind of interface, most common implementations are: Hibernate, EclipseLink and Apache Open JPA, in these academy we'll talk and learn about Hibernate. <br/>
+[Here](https://www.objectdb.com/java/jpa/persistence/managed) Entity Object Life Cycle.<br/>
 
 # Examples
 
