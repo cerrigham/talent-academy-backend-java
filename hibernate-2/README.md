@@ -10,7 +10,8 @@ Look [here](https://www.javatpoint.com/hql) to learn about them.
 
 ### Criteria
 The Criteria API allows us to build up a criteria query object programmatically, where we can apply different kinds of filtration rules and logical conditions.<br/>
-Look [here](https://www.baeldung.com/hibernate-criteria-queries)to learn about them.
+Look [here](https://www.baeldung.com/hibernate-criteria-queries) to learn about them in a modern way. <br/>
+[Here] (https://www.tutorialspoint.com/hibernate/hibernate_criteria_queries.htm) the previous version. 
 
 ## Fetch type
 
