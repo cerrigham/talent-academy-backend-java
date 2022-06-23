@@ -13,7 +13,7 @@ The Criteria API allows us to build up a criteria query object programmatically,
 Look [here](https://www.baeldung.com/hibernate-criteria-queries) to learn about them in a modern way. <br/>
 [Here](https://www.tutorialspoint.com/hibernate/hibernate_criteria_queries.htm) the previous version. <br/>
 An helpful [video](https://www.youtube.com/watch?v=Id_5VCGX5to). <br/>
-Advanced case [here](https://docs.oracle.com/javaee/6/tutorial/doc/gjitv.html) and [here](https://docs.oracle.com/javaee/6/tutorial/doc/gjivm.html#gjiuv).
+Advanced case [here](https://thorben-janssen.com/hibernate-tip-left-join-fetch-join-criteriaquery/).
 
 ## Fetch type
 
