@@ -12,7 +12,8 @@ Look [here](https://www.javatpoint.com/hql) to learn about them.
 The Criteria API allows us to build up a criteria query object programmatically, where we can apply different kinds of filtration rules and logical conditions.<br/>
 Look [here](https://www.baeldung.com/hibernate-criteria-queries) to learn about them in a modern way. <br/>
 [Here](https://www.tutorialspoint.com/hibernate/hibernate_criteria_queries.htm) the previous version. <br/>
-An helpful [video](https://www.youtube.com/watch?v=Id_5VCGX5to). 
+An helpful [video](https://www.youtube.com/watch?v=Id_5VCGX5to). <br/>
+Advanced case [here](https://docs.oracle.com/javaee/6/tutorial/doc/gjitv.html) and [here](https://docs.oracle.com/javaee/6/tutorial/doc/gjivm.html#gjiuv).
 
 ## Fetch type
 
