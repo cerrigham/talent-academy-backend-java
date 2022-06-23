@@ -13,7 +13,7 @@ The Criteria API allows us to build up a criteria query object programmatically,
 Look [here](https://www.baeldung.com/hibernate-criteria-queries) to learn about them in a modern way. <br/>
 [Here](https://www.tutorialspoint.com/hibernate/hibernate_criteria_queries.htm) the previous version. <br/>
 An helpful [video](https://www.youtube.com/watch?v=Id_5VCGX5to). <br/>
-Advanced case [here](https://thorben-janssen.com/hibernate-tip-left-join-fetch-join-criteriaquery/).
+Advanced case [here](https://thorben-janssen.com/hibernate-tip-left-join-fetch-join-criteriaquery/). <br/><br/>
 Metamodel [here](https://www.baeldung.com/hibernate-criteria-queries-metamodel) <br/>
 Example join with Criteria and Metamodel [here](https://vladmihalcea.com/jpa-criteria-metamodel/).
 
