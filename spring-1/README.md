@@ -26,6 +26,9 @@ A Beans must have a scope:
 - Session
 - Application (when beans are application scoped, the same instance of the bean is shared across multiple servlet-based applications running in the same ServletContext, while singleton scoped beans are scoped to a single application context only.
 
+## Basic course
+[Here](https://www.youtube.com/playlist?list=PLCbSCJEIR6CqgCLyVzqp49xOm8A5YDTKA) a playlist about Spring. <br/>
+
 ## Examples
 
 Let's make something together.
