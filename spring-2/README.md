@@ -5,12 +5,13 @@
 
 ## Annotation-based Dependency Injection
 
+Start from [here](https://www.vogella.com/tutorials/DependencyInjection/article.html#:~:text=Dependency%20injection%20(DI)%20is%20the,an%20instance%20of%20this%20class.).<br/>
 In Spring Framework annotations related to dependency injection are, namely 
  - @Resource
  - @Inject
  - @Autowired
 
-Look [here](https://www.baeldung.com/spring-annotations-resource-inject-autowire) to learn about them.
+Look [here](https://www.baeldung.com/spring-annotations-resource-inject-autowire) and [here](https://www.baeldung.com/spring-autowire) to learn about them.
 
 ## Spring Boot
 
