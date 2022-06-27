@@ -57,6 +57,7 @@ Let's start!
 - [Springboot | Official documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - [Springboot | Udemy](https://www.udemy.com/course/spring-boot-complete-guide-from-development-to-deployment/)
 - [Springboot | Spring Initializr](https://start.spring.io/)
+- [Springboot and Json | Baeldung](https://www.baeldung.com/spring-boot-json)
 - [Spring Data | Official documentation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
 - [REST | Youtube](https://www.youtube.com/watch?v=lsMQRaeKNDk)
 - [Spring MVC | Official documentation](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
