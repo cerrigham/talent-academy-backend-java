@@ -12,6 +12,7 @@ In Spring Framework annotations related to dependency injection are, namely
  - @Autowired
 
 Look [here](https://www.baeldung.com/spring-annotations-resource-inject-autowire) and [here](https://www.baeldung.com/spring-autowire) to learn about them.
+Autowired best practices [here](https://springframework.guru/best-practices-for-dependency-injection-with-spring/).
 
 ## Spring Boot
 
