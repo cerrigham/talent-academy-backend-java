@@ -11,6 +11,9 @@ The Spring Framework is divided into modules. Applications can choose which modu
 Learn [here](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html) about this framework. <br/>
 Look [here](https://www.jetbrains.com/help/idea/your-first-spring-application.html#add-greeting-method) for an Hello World application in Spring(boot).
 
+## Spring Ecosystem 
+![image](https://user-images.githubusercontent.com/6083938/175878268-a84caa3f-c4ff-42ec-82f1-62a95c64ce5f.png)
+
 ## Configuration
 
 Take a look [here](https://www.udemy.com/course/spring-framework-video-tutorial/) for get all the information about Spring configuration. 
