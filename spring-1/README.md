@@ -9,7 +9,6 @@ Spring makes it easy to create Java enterprise applications. It provides everyth
 Spring is open source. It has a large and active community that provides continuous feedback based on a diverse range of real-world use cases. <br/>
 The Spring Framework is divided into modules. Applications can choose which modules they need. At the heart are the modules of the core container, including a configuration model and a dependency injection mechanism. Beyond that, the Spring Framework provides foundational support for different application architectures, including messaging, transactional data and persistence, and web. It also includes the Servlet-based Spring MVC web framework and, in parallel, the Spring WebFlux reactive web framework.<br/>
 Learn [here](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html) about this framework. <br/>
-Look [here](https://www.jetbrains.com/help/idea/your-first-spring-application.html#add-greeting-method) for an Hello World application in Spring(boot).
 
 ## Spring Ecosystem 
 ![image](https://user-images.githubusercontent.com/6083938/175878268-a84caa3f-c4ff-42ec-82f1-62a95c64ce5f.png)
