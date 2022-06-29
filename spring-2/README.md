@@ -12,7 +12,12 @@ In Spring Framework annotations related to dependency injection are, namely
  - @Autowired
 
 Look [here](https://www.baeldung.com/spring-annotations-resource-inject-autowire) and [here](https://www.baeldung.com/spring-autowire) to learn about them.
-Autowired best practices [here](https://springframework.guru/best-practices-for-dependency-injection-with-spring/).
+Autowired best practices [here](https://springframework.guru/best-practices-for-dependency-injection-with-spring/). <br/><br/>
+
+Take a look at the difference between Component, Controller, Service a Repository annotation: <br/>
+- [here](https://www.baeldung.com/spring-component-annotation)
+- [here](https://www.baeldung.com/spring-component-repository-service)
+
 
 ## Spring Boot
 
