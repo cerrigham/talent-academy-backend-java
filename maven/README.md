@@ -11,3 +11,9 @@ Let's try to understand its basics [here](https://www.udemy.com/course/maven-qui
 [Here](https://www.youtube.com/watch?v=Xatr8AZLOsE&t=17s) a beautiful  video intoducing Maven.
 <br/><br/>
 Then, let's try to clarify something through some [examples](src/test/java/test).
+
+## Profile
+Learn [here](https://www.baeldung.com/maven-profiles) about them.
+
+## Lifecycle
+Learr [here](https://www.baeldung.com/maven-goals-phases) about them.
