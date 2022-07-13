@@ -9,7 +9,8 @@ Hibernate is a JPA provider and ORM that maps Java objects to relational databas
 [Here](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa) and [here](https://spring.io/guides/gs/accessing-data-jpa/) to learn about Spring Data framework. <br/>
 Take a look [here](https://www.baeldung.com/spring-data-criteria-queries) for Spring Data criteria examples. <br/>
 Also take a look on this [video](https://www.youtube.com/watch?v=8SGI_XS5OPw). <br/>
-[Here](https://www.baeldung.com/spring-data-jpa-query) learn how SpringData manage complex query.
+[Here](https://www.baeldung.com/spring-data-jpa-query) learn how SpringData manage complex query. <br/>
+[SpringData sorting](https://www.baeldung.com/spring-data-sorting).
 
 # Examples
 
