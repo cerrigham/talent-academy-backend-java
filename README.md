@@ -25,6 +25,9 @@ Let's start!
 - [Spring Part 2](spring-2/README.md)
 - [Spring Part 3](spring-3/README.md)
 - [Spring Part 4](spring-4/README.md)
+- [Agile](agile/README.md)
+- [Mongo DB and database noSQL](mongodb/README.md)
+- [AWS](aws/README.md)
 
 ## References
 
