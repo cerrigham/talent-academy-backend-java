@@ -17,7 +17,7 @@ That is, while there is value in the items on the right, we value the items on t
 
 ### Agile methodologies 
 
-There are many Agile methodologies (scrum, kannban, extreme programming), we'll take a look to Scrum
+There are many Agile methodologies (scrum, kanban, extreme programming), we'll take a look to Scrum
 
 ## Scrum
 
