@@ -27,6 +27,7 @@ Let's start!
 - [Spring Part 4](spring-4/README.md)
 - [Agile](agile/README.md)
 - [Mongo DB and database noSQL](mongodb/README.md)
+- [VAVR](vavr/README.md)
 - [AWS](aws/README.md)
 
 ## References
