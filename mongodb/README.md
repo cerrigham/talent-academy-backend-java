@@ -8,7 +8,8 @@ Learn [here](https://www.mongodb.com/nosql-explained) something about one of the
 Also take a look at this [video](https://www.youtube.com/watch?v=pWbMrx5rVBE). <br/>
 Other documentation can be find: 
 - [here](https://www.tutorialspoint.com/mongodb/index.htm)
-- and [here](https://www.javatpoint.com/mongodb-tutorial)
+- [here](https://www.javatpoint.com/mongodb-tutorial)
+- and [here](https://www.tutorialspoint.com/mongodb/mongodb_tutorial.pdf)
 
 ## Json vs Bson
 Take a look [here](https://www.mongodb.com/json-and-bson) to see the difference between Json and Bson. 
