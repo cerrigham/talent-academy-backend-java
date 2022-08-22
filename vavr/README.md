@@ -21,7 +21,7 @@ Also we have some useful videos:
 [Here](https://www.baeldung.com/vavr-either)
 
 ## Vavr - Property Testing
-[Here]https://www.baeldung.com/vavr-property-testing)
+[Here](https://www.baeldung.com/vavr-property-testing)
 
 ## Vavr - Pattern Matching
 [Here](https://www.baeldung.com/vavr-pattern-matching)
