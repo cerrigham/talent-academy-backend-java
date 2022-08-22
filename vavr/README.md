@@ -5,6 +5,7 @@
 
 VAVR is a library whic extends concept of functional programming in Java. <br/>
 Learn [here](https://www.baeldung.com/vavr) something about this library. <br/>
+[Here](https://docs.vavr.io/) the official documentation. <br/>
 
 Also we have some useful videos:
 - [first one](https://www.youtube.com/watch?v=2JTlFAjhL3U)
