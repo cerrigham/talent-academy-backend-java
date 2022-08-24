@@ -20,5 +20,5 @@ Learn [here](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/) som
 ## MongoDB and Java
 [Here](https://www.mongodb.com/docs/drivers/java-drivers/) a place to start from. <br/>
 
-## Take a look deeper
-[Here](https://www.mongodb.com/developer/languages/java/quickstarts/) some quickstarts. 
+## Take a look deepercr
+[Here](https://www.mongodb.com/developer/languages/java/quickstarts/) some quickstarts (POJO, CRUD, Aggregation Pipeline)
