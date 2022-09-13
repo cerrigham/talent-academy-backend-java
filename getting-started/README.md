@@ -23,15 +23,23 @@ Java uses an automatic garbage collector to manage memory in the object lifecycl
 
 Do one of the following.
 
+### Open JDK
+
+Go [here](https://jdk.java.net/18/) to download Open JDK version 18. 
+
 ### Oracle JDK
 
 Go [here](https://www.oracle.com/java/technologies/downloads) to download the JDK for your environment.
 
-### SDKMAN!
+### SDKMAN (only for Unix/Linux/MacOS)
 
 Go [here](https://sdkman.io/install) and follow the instructions to install SDKMAN!.
 
 Then, run `sdk install java` to install the latest version of Java.
+
+### Env variabile
+
+Set environment variable for Java on your system, at the end open a shell console and type java command.
 
 ## IDE setup
 
@@ -45,3 +53,11 @@ As an alternative, download and install the [Toolbox App](https://www.jetbrains.
 
 Go [here](src/main/java/it/bitrock/academy/HelloJava.java), and you will find the simplest Java application.
 Try to run it using your IDE.
+
+## Maven
+
+Go [here](https://maven.apache.org/download.cgi) to download Maven on your machine, also set env variable. 
+
+## Git
+
+Go [here](https://git-scm.com/downloads) to download Git on your machine
