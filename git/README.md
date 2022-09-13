@@ -20,5 +20,5 @@ Developers who have worked with Git are well represented in the pool of availabl
 ### Resources
 Take a look [here](https://www.w3schools.com/git/default.asp?remote=github) for better understand Git and his potentiality. <br/><br/>
 Also [here](https://dzone.com/articles/top-20-git-commands-with-examples?edition=728525) you can find the top 20 git commands with example. <br/><br/>
-[Here](https://learngitbranching.js.org/) an interactive tutorial for take confidence with Git. 
-
+[Here](https://learngitbranching.js.org/) an interactive tutorial for take confidence with Git. <br/><br/> 
+Check [here](https://www.youtube.com/watch?v=wpISo9TNjfU) differences between Git and GitHub. <br/><br/>
