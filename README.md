@@ -15,6 +15,7 @@ Let's start!
 - [Data structures](data-structures/README.md)
 - [GIT - Version Control System](git/README.md)
 - [Java Common OOP Patterns](design-patterns/README.md)
+- [SOLID Principles](solid/README.md)
 - [Functional Programming in Java](functional-programming-in-java/README.md)
 - [Multithreading in Java](multithreading/README.md)
 - [Maven](maven/README.md)
