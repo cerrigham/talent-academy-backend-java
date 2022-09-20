@@ -60,4 +60,8 @@ Go [here](https://maven.apache.org/download.cgi) to download Maven on your machi
 
 ## Git
 
-Go [here](https://git-scm.com/downloads) to download Git on your machine
+Go [here](https://git-scm.com/downloads) to download Git on your machine.
+
+## Let's chat al together 
+
+Download and install [Slack](https://slack.com/downloads/) and subcribe to our channel.
