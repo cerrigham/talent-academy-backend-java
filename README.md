@@ -4,6 +4,7 @@ For some lessons, you will be asked to use some external resources (e.g. Udemy).
 Each lesson will be introduced by the **Mentor** who will explain the topics and the goals.
 After the standalone study the **Mentor** will answer to your questions, will clarify any doubts and will assign some assessments.
 
+
 Let's start!
 
 ## Modules
